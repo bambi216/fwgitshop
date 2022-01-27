@@ -1,4 +1,5 @@
 # fwgitshop
 A demo repo for teaching GitHub
 hello
-tryihng to add change
+trying to make changes 
+this isn't that easy to learn
